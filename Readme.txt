@@ -1,5 +1,7 @@
-Run "run.bat" to execute the java file.
+Run "life.exe" or Run "run.bat" in "jar files" folder to execute the java file.
+The source code is in the "source code" folder
 
+Ex:
 Enter number of rows and columns (m,n) in 1st line.
 Enter the subsequent m lines with cell matrix as show below:
 
